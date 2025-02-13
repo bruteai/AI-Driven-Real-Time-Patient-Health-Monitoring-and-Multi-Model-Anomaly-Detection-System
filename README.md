@@ -14,7 +14,6 @@ AI-Remote-Patient-Monitoring/
 │   │   ├── ml_model2.py              # One-Class SVM anomaly detection
 │   │   ├── autoencoder_model.py      # Autoencoder-based deep learning anomaly detection
 │   ├── realtime_anomaly_detection.py # Combines all models for real-time anomaly detection
-│── notebooks/                        # EDA and model training
 │── models/                           # Saved trained models
 │── README.md                         # Setup and usage instructions
 │── requirements.txt                   # Dependencies
@@ -104,5 +103,3 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For inquiries, please contact [your email] or visit [your GitHub profile].
