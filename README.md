@@ -1,4 +1,4 @@
-# FULL STACK REAL-TIME PATIENT HEALTH MONITORING AND MULTIMODEL ANOMALY DETECTION
+
 ![Dashboard Screenshot](Sample_Preview.gif)
 
 ## Overview
