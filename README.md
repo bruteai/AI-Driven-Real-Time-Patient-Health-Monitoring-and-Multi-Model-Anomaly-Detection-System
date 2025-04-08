@@ -1,5 +1,5 @@
 # FULL STACK REAL-TIME PATIENT HEALTH MONITORING AND MULTIMODEL ANOMALY DETECTION
-![Dashboard Screenshot](Sample_Preview.GIF)
+![Dashboard Screenshot](Sample_Preview.gif)
 
 ## Overview
 This project provides an AI-driven remote patient monitoring system that collects real-time vitals from IoT wearable devices and applies multiple machine learning techniques for anomaly detection. It enables proactive healthcare intervention by identifying potential health risks.
