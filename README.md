@@ -1,4 +1,4 @@
-# AI-Powered Remote Patient Monitoring System
+# FULL STACK REAL-TIME PATIENT HEALTH MONITORING AND MULTIMODEL ANOMALY DETECTION
 
 ## Overview
 This project provides an AI-driven remote patient monitoring system that collects real-time vitals from IoT wearable devices and applies multiple machine learning techniques for anomaly detection. It enables proactive healthcare intervention by identifying potential health risks.
